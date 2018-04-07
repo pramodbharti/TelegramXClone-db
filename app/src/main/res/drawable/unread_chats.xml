@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <!-- Background shape for the unread chats -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+android:shape="rectangle">
+<solid android:color="@color/total_unread" />
+<size
+    android:width="12dp"
+    android:height="12dp"/>
+<corners android:radius="30dp" />
+</shape>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Telegram X Clone</string>
+    <!-- Category name for chats -->
+    <string name="category_chats">CHATS</string>
+
+    <!-- Category name for calls -->
+    <string name="category_calls">CALLS</string>
+</resources>
